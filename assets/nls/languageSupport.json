@@ -1,0 +1,31 @@
+{
+    "en": {
+      "SOURCE_PRODUCT":"Drag Drop Source Product",
+      "SYNC_STRUCTURE":"Sync Structure",
+      "DESTINATION_PRODUCT":"Drag Drop Destination Product",
+      "MSG_COBOT_0001": "Please promote all Parts of Delivery Node to Frozen State.",
+      "MSG_COBOT_0002": "the following characters are forbidden in a CAD Title",
+      "MSG_COBOT_0003": "Please select Source and Destination Products.",
+      "MSG_COBOT_0004": "Please select evolution.",
+      "RESULT_COBOT_PART_NOT_FROZEN":"Object is not in frozen state.",
+      "SYNC1":"Synching.",
+      "SYNC2":"Synching..",
+      "SYNC3":"Synching...",
+      "SYNC_SUCCESS":"Sync Successful"
+      },
+    "ja": {
+      "SOURCE_PRODUCT":"ドラッグ＆ドロップソース製品",
+      "SYNC_STRUCTURE":"同期構造",
+      "DESTINATION_PRODUCT":"ドラッグ＆ドロップ先の製品",
+      "MSG_COBOT_0001": "配信ノードのすべてのパーツを凍結状態に昇格してください。",
+      "MSG_COBOT_0002": "次の文字はCADタイトルでは禁止されています",
+      "MSG_COBOT_0003": "ソース製品とターゲット製品を選択してください。",
+      "MSG_COBOT_0004": "Please select evolution.",
+      "RESULT_COBOT_PART_NOT_FROZEN":"Object is not in frozen state.",
+      "SYNC1":"Synching.",
+      "SYNC2":"Synching..",
+      "SYNC3":"Synching...",
+      "SYNC_SUCCESS":"Sync Successful"
+      }
+  }
+  
