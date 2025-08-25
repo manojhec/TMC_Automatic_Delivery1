@@ -22,7 +22,7 @@
       "MSG_COBOT_0003": "ソース製品とターゲット製品を選択してください。",
       "MSG_COBOT_0004": "Please select evolution.",
       "RESULT_COBOT_PART_NOT_FROZEN":"Object is not in frozen state.",
-      "SYNC1":"Synching.",
+      "SYNC1":"同期中です。",
       "SYNC2":"Synching..",
       "SYNC3":"Synching...",
       "SYNC_SUCCESS":"Sync Successful"
