@@ -1,6 +1,0 @@
-set NODE_OPTIONS=--openssl-legacy-provider
-npm run build
-scp -r tmc_automatic_delivery x3ds@tdcvltmc226:/opt/R427Platform/tomee_3dspace/webapps/3DSpace/webapps/
-
-npm install --force --legacy-peer-deps
-
