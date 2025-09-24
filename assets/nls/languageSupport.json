@@ -23,7 +23,17 @@
       "SYNC1":"Synching.",
       "SYNC2":"Synching..",
       "SYNC3":"Synching...",
-      "SYNC_SUCCESS":"Sync Successful"
+      "SYNC_SUCCESS":"Sync Successful",
+      "INSTANCE_TITLE":"Instance Title",
+      "REF_TITLE":"Ref Title",
+      "REV":"Rev.",
+      "MATURITY":"Maturity",
+      "STATUS":"Status",
+      "ACTION":"Action",
+      "POSITION_MATRIX":"Position Matrix",
+      "DELIVER":"Deliver",
+      "INSTANCES":"instances",
+      "COMPLETED":"Completed"
       },
     "ja": {
       "Actions": "操作",
@@ -49,6 +59,16 @@
       "SYNC1":"Synching.",
       "SYNC2":"Synching..",
       "SYNC3":"Synching...",
-      "SYNC_SUCCESS":"Sync Successful"
+      "SYNC_SUCCESS":"Sync Successful",
+      "INSTANCE_TITLE": "インスタンスタイトル",
+      "REF_TITLE": "参照タイトル",
+      "REV": "版",
+      "MATURITY": "成熟度",
+      "STATUS": "ステータス",
+      "ACTION": "アクション",
+      "POSITION_MATRIX": "ポジションマトリックス",
+      "DELIVER": "納入",
+      "INSTANCES": "インスタンス",
+      "COMPLETED": "完了"
       }
 }
