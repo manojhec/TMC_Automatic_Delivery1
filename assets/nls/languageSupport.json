@@ -30,7 +30,9 @@
       "POSITION_MATRIX":"Position Matrix",
       "DELIVER":"Deliver",
       "INSTANCES":"instances",
-      "COMPLETED":"Completed"
+      "COMPLETED":"Completed",
+      "REPORT_GENERATED_ON":"Report generated on",
+      "AT":"at"
       },
     "ja": {
       "Actions": "操作",
@@ -63,6 +65,8 @@
       "POSITION_MATRIX": "ポジションマトリックス",
       "DELIVER": "納入",
       "INSTANCES": "インスタンス",
-      "COMPLETED": "完了"
+      "COMPLETED": "完了",
+      "REPORT_GENERATED_ON": "レポート作成日",
+      "AT": "～時"
       }
 }
