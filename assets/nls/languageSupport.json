@@ -31,8 +31,7 @@
       "DELIVER":"Deliver",
       "INSTANCES":"instances",
       "COMPLETED":"Completed",
-      "REPORT_GENERATED_ON":"Report generated on",
-      "AT":"at"
+      "REPORT_GENERATED_ON":"Report generated on:"
       },
     "ja": {
       "Actions": "操作",
@@ -66,7 +65,6 @@
       "DELIVER": "納入",
       "INSTANCES": "インスタンス",
       "COMPLETED": "完了",
-      "REPORT_GENERATED_ON": "レポート作成日",
-      "AT": "～時"
+      "REPORT_GENERATED_ON": "レポート作成日:"
       }
 }
