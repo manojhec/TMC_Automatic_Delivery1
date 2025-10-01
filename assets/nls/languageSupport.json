@@ -31,7 +31,10 @@
       "DELIVER":"Deliver",
       "INSTANCES":"instances",
       "COMPLETED":"Completed",
-      "REPORT_GENERATED_ON":"Report generated on:"
+      "REPORT_GENERATED_ON":"Report generated on:",
+      "CONFIRM_DELIVERY":"Do you want to deliver the contents?",
+      "CONFIRM_CLEAR_UI":"Do you want to clear the data?",
+      "CONFIRMATION":"Confirmation"
       },
     "ja": {
       "Actions": "操作",
